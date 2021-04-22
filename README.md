@@ -4,7 +4,7 @@
 
 
 
-# Hi 👋
+# Hello Everyone <img src = "https://www.flaticon.com/svg/vstatic/svg/2165/2165920.svg?token=exp=1619052613~hmac=627843fe8481498a8c8104439ec2b20f" width="25">
 I'm Yusuf Tekin! I improve myself on projects related to web.
 
 Contact me via these platforms! 
