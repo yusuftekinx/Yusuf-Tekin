@@ -59,9 +59,6 @@ Contact me via these platforms!
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Yusuf-Tekin&count_private=true&show_icons=true&theme=tokyonight">
 </p>
-  <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-Tekin&hide=python&layout=compact&show_icons=true&theme=tokyonight">
-  </p>
 </p>
 
 
