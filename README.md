@@ -1,10 +1,10 @@
 
-[![GitHub followers](https://img.shields.io/github/followers/Yusuf-Tekin?style=social)](https://github.com/fatihkayan20?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Yusuf-Tekin?style=social)](https://github.com/Yusuf-Tekin?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/Yusuf-Tekin?style=social)
 
 
 
-# Hello Everyone <img src = "https://www.flaticon.com/svg/vstatic/svg/2165/2165920.svg?token=exp=1619052613~hmac=627843fe8481498a8c8104439ec2b20f" width="25">
+# Hello Everyone <img src = "https://www.flaticon.com/svg/vstatic/svg/599/599527.svg?token=exp=1620037545~hmac=bb513b8ac314e9f23ac2789d82083b4d" width="25">
 I'm Yusuf Tekin! I improve myself on projects related to web.
 
 Contact me via these platforms! 
