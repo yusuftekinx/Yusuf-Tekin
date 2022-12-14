@@ -24,11 +24,11 @@ Contact me via these platforms!
 <img src="https://skillicons.dev/icons?i=next&theme=light"></img>
 
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
+<img src="https://skillicons.dev/icons?i=js&theme=light"></img>
 
 
-<img src="https://skillicons.dev/icons?i=vue&theme=light" />
-<img src="https://skillicons.dev/icons?i=nuxt&theme=light" />
+<img src="https://skillicons.dev/icons?i=vue&theme=light"></img>
+<img src="https://skillicons.dev/icons?i=nuxt&theme=light"></img>
 
 
 
@@ -44,6 +44,9 @@ Contact me via these platforms!
 <img src="https://skillicons.dev/icons?i=css&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=bootstrap&theme=light"></img>
 
+
+<img src="https://skillicons.dev/icons?i=c&theme=light"></img>
+<img src="https://skillicons.dev/icons?i=c++&theme=light"></img>
 
 
 
@@ -68,10 +71,5 @@ Contact me via these platforms!
 
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... I am studying at Hayriye Kımçak Anatolian High School
-- 🌱 I’m currently learning ... React Express
-- 💬 Ask me about ... Java Django
-- 📫 How to reach me: ... [Instagram](https://www.instagram.com/yusuf.tekinx/)
+📫 How to reach me: ... [Instagram](https://www.instagram.com/yusuf.tekinx/)
 
