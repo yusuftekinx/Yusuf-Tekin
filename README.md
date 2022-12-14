@@ -45,7 +45,7 @@ Contact me via these platforms!
 
 <img src="https://skillicons.dev/icons?i=c&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=cpp&theme=light"></img>
-<img src="https://skillicons.dev/icons?i=ardunio&theme=light"></img>
+<img src="https://skillicons.dev/icons?i=arduino&theme=light"></img>
 
 <img src="https://skillicons.dev/icons?i=aws&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=firebase&theme=light"></img>
