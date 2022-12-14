@@ -17,19 +17,17 @@ Contact me via these platforms!
 
 <img src="https://skillicons.dev/icons?i=java&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=spring"></img>
+<img src="https://skillicons.dev/icons?i=hibernate&theme=light"></img>
 
+
+<img src="https://skillicons.dev/icons?i=js&theme=light"></img>
 
 <img src="https://skillicons.dev/icons?i=react&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=redux&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=next&theme=light"></img>
 
-
-<img src="https://skillicons.dev/icons?i=js&theme=light"></img>
-
-
 <img src="https://skillicons.dev/icons?i=vue&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=nuxt&theme=light"></img>
-
 
 
 <img src="https://skillicons.dev/icons?i=nodejs"></img>
@@ -45,14 +43,18 @@ Contact me via these platforms!
 <img src="https://skillicons.dev/icons?i=bootstrap&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=tailwind&theme=light"></img>
 
-
 <img src="https://skillicons.dev/icons?i=c&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=cpp&theme=light"></img>
-
+<img src="https://skillicons.dev/icons?i=ardunio&theme=light"></img>
 
 <img src="https://skillicons.dev/icons?i=aws&theme=light"></img>
-
 <img src="https://skillicons.dev/icons?i=firebase&theme=light"></img>
+
+
+<img src="https://skillicons.dev/icons?i=eclipse&theme=light"></img>
+<img src="https://skillicons.dev/icons?i=vscode&theme=light"></img>
+<img src="https://skillicons.dev/icons?i=idea&theme=light"></img>
+
 
 
 
