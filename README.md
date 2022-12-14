@@ -43,10 +43,16 @@ Contact me via these platforms!
 <img src="https://skillicons.dev/icons?i=html&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=css&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=bootstrap&theme=light"></img>
+<img src="https://skillicons.dev/icons?i=tailwind&theme=light"></img>
 
 
 <img src="https://skillicons.dev/icons?i=c&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=c++&theme=light"></img>
+
+
+<img src="https://skillicons.dev/icons?i=aws&theme=light"></img>
+
+<img src="https://skillicons.dev/icons?i=firebase&theme=light"></img>
 
 
 
