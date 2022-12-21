@@ -32,7 +32,7 @@ Contact me via these platforms!
 
 <img src="https://skillicons.dev/icons?i=mongo"></img>
 
-<img src="https://skillicıns.dev/icons?i=ts" />
+<img src="https://skillicons.dev/icons?i=ts" />
 
 <img src="https://skillicons.dev/icons?i=python&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=django&theme=light"></img>
