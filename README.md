@@ -25,24 +25,26 @@ Contact me via these platforms!
 <img src="https://skillicons.dev/icons?i=redux&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=vue&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=nuxt&theme=light"></img>
-<img src="https://skillicons.dev/icons?i=svelte&theme=light"></img>
+<!--<img src="https://skillicons.dev/icons?i=svelte&theme=light"></img>-->
 
 <img src="https://skillicons.dev/icons?i=nodejs"></img>
 <img src="https://skillicons.dev/icons?i=express"></img>
+<img src="https://skillicons.dev/icons?i=adonis"></img>
+
 
 <img src="https://skillicons.dev/icons?i=mongo"></img>
 
 <img src="https://skillicons.dev/icons?i=ts" />
 
-<img src="https://skillicons.dev/icons?i=python&theme=light"></img>
-<img src="https://skillicons.dev/icons?i=django&theme=light"></img>
+<!--<img src="https://skillicons.dev/icons?i=python&theme=light"></img>
+<img src="https://skillicons.dev/icons?i=django&theme=light"></img>-->
 
 <img src="https://skillicons.dev/icons?i=html&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=css&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=bootstrap&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=tailwind&theme=light"></img>
 
-<img src="https://skillicons.dev/icons?i=c&theme=light"></img>
+<!--<img src="https://skillicons.dev/icons?i=c&theme=light"></img>-->
 <img src="https://skillicons.dev/icons?i=cpp&theme=light"></img>
 <img src="https://skillicons.dev/icons?i=arduino&theme=light"></img>
 
