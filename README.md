@@ -1,84 +1,21 @@
 
-[![GitHub followers](https://img.shields.io/github/followers/Yusuf-Tekin?style=social)](https://github.com/Yusuf-Tekin?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/Yusuf-Tekin?style=social)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yusuf.tekinx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-tekin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCS2Z1vWhMQAquNpo1YrVk9g) 
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Yusuf-Tekin&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yusuf-Tekin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yusuf-Tekin&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-# Hello!
-I'm Yusuf Tekin! I improve myself on projects related to web.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Yusuf-Tekin&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-Contact me via these platforms! 
+---
+[![](https://visitcount.itsvg.in/api?id=Yusuf-Tekin&icon=6&color=8)](https://visitcount.itsvg.in)
 
-  <a href="https://www.instagram.com/yusuf.tekinx/"> <img src="https://skillicons.dev/icons?i=instagram"></img> </a>
-  <a href="https://www.linkedin.com/in/yusuf-tekin-683a9b1a2/" target="_blank" rel="nofollow"><img alt="Yusuf's Linkdein" src="https://skillicons.dev/icons?i=linkedin" /></a>
-
-  
-## 🛠 Technologies & Tools 
-
-<img src="https://skillicons.dev/icons?i=java&theme=light"></img>
-<img src="https://skillicons.dev/icons?i=spring"></img>
-<img src="https://skillicons.dev/icons?i=hibernate&theme=light"></img>
-
-
-<img src="https://skillicons.dev/icons?i=js&theme=light"></img>
-<img src="https://skillicons.dev/icons?i=react&theme=light"></img>
-<img src="https://skillicons.dev/icons?i=redux&theme=light"></img>
-<img src="https://skillicons.dev/icons?i=vue&theme=light"></img>
-<img src="https://skillicons.dev/icons?i=nuxt&theme=light"></img>
-<!--<img src="https://skillicons.dev/icons?i=svelte&theme=light"></img>-->
-
-<img src="https://skillicons.dev/icons?i=nodejs"></img>
-<img src="https://skillicons.dev/icons?i=express"></img>
-<img src="https://skillicons.dev/icons?i=adonis"></img>
-
-
-<img src="https://skillicons.dev/icons?i=mongo"></img>
-
-<img src="https://skillicons.dev/icons?i=ts" />
-
-<!--<img src="https://skillicons.dev/icons?i=python&theme=light"></img>
-<img src="https://skillicons.dev/icons?i=django&theme=light"></img>-->
-
-<img src="https://skillicons.dev/icons?i=html&theme=light"></img>
-<img src="https://skillicons.dev/icons?i=css&theme=light"></img>
-<img src="https://skillicons.dev/icons?i=bootstrap&theme=light"></img>
-<img src="https://skillicons.dev/icons?i=tailwind&theme=light"></img>
-
-<!--<img src="https://skillicons.dev/icons?i=c&theme=light"></img>-->
-<img src="https://skillicons.dev/icons?i=cpp&theme=light"></img>
-<img src="https://skillicons.dev/icons?i=arduino&theme=light"></img>
-
-<img src="https://skillicons.dev/icons?i=aws&theme=light"></img>
-<img src="https://skillicons.dev/icons?i=firebase&theme=light"></img>
-
-
-<img src="https://skillicons.dev/icons?i=eclipse&theme=light"></img>
-<img src="https://skillicons.dev/icons?i=vscode&theme=light"></img>
-<img src="https://skillicons.dev/icons?i=idea&theme=light"></img>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Yusuf-Tekin&count_private=true&show_icons=true&theme=tokyonight">
-</p>
-</p>
-
-
-
-📫 How to reach me: ... [Instagram](https://www.instagram.com/yusuf.tekinx/)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
